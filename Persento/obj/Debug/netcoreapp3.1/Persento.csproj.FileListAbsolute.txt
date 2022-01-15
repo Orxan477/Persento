@@ -1,0 +1,281 @@
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.csproj.AssemblyReference.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.AssemblyInfoInputs.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.AssemblyInfo.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorAssemblyInfo.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorAssemblyInfo.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.exe
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.deps.json
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.runtimeconfig.json
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.runtimeconfig.dev.json
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.pdb
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.Views.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.Views.pdb
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\staticwebassets\Persento.StaticWebAssets.Manifest.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\staticwebassets\Persento.StaticWebAssets.xml
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\scopedcss\bundle\Persento.styles.css
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.TagHelpers.input.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.TagHelpers.output.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorCoreGenerate.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorTargetAssemblyInfo.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorTargetAssemblyInfo.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.Views.pdb
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.pdb
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.genruntimeconfig.cache
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.csproj.CopyComplete
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Components\AdminFooter\Default.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Components\Navbar\Default.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\People\Index.cshtml.g.cs
+C:\Users\Orxan477\source\repos\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\People\Create.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.exe
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.deps.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.runtimeconfig.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.runtimeconfig.dev.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.Views.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Persento.Views.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.csproj.AssemblyReference.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.AssemblyInfoInputs.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.AssemblyInfo.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.csproj.CoreCompileInputs.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.MvcApplicationPartsAssemblyInfo.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorAssemblyInfo.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorAssemblyInfo.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\staticwebassets\Persento.StaticWebAssets.Manifest.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\staticwebassets\Persento.StaticWebAssets.xml
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\scopedcss\bundle\Persento.styles.css
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.TagHelpers.input.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.TagHelpers.output.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorCoreGenerate.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\People\Create.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\People\Index.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Components\AdminFooter\Default.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Components\Navbar\Default.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorTargetAssemblyInfo.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.RazorTargetAssemblyInfo.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.Views.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.csproj.CopyComplete
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Persento.genruntimeconfig.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Persento\Persento\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\People\Update.cshtml.g.cs

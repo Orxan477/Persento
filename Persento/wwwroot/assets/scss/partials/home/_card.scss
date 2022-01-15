@@ -1,0 +1,42 @@
+#card{
+    .head{
+       & h4{
+        font-size: 35px;
+        font-weight: 600;
+       }
+       & span{
+           color: $maincolor;
+       }
+    }
+    .card{
+        z-index: 4;
+        transition: all 0.3s ease;
+        box-shadow: 0 0 25px 0 rgb(114, 97, 97);
+        border: none;
+    }
+    .card-body {
+       transition: all .3s ease;
+    //    transition-timing-function: ease;
+    }
+    .card-body::before{
+        position:absolute;
+        content: "";
+        top: 100%;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: $maincolor;
+        z-index: -1;
+        height: 0;
+    }
+    .card:hover .card-body::before{
+        height: 100%;
+        top: 0;
+    }
+    .card:hover h5{
+        color: $fontcolor;
+    }
+    .card:hover  p{
+        color: $fontcolor;
+    }
+}

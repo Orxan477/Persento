@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Person>
+@{
+    ViewData["Title"] = "Index";
+    int num = 1;
+}
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">People</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>№</th>
+                                <th>Image</th>
+                                <th>Name</th>
+                                <th>Position</th>
+                                <th>Content</th>
+                                <th>Setting</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var person in Model)
+                            {
+                                <tr>
+                                    <td>@num</td>
+                                    <td><img src="/assets/img/@person.Image" /></td>
+                                    <td>@person.Fullname</td>
+                                    <td>@person.Position</td>
+                                    <td>@person.Content</td>
+                                    <td>
+                                        <a asp-action="Update" asp-route-id="@person.Id">Update</a>
+                                        <form method="post">
+                                            <button type="submit" asp-action="Delete" asp-route-id="@person.Id">Delete</button>
+                                        </form>
+                                    </td>
+
+                                </tr>
+                                num++;
+                            }
+                            <label class="btn btn-danger"><a asp-area="Admin" asp-controller="People" asp-action="Create">Create</a></label>
+
+                        </tbody>
+                        
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

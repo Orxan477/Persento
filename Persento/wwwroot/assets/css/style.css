@@ -1,0 +1,193 @@
+#carousel img {
+  margin-bottom: 12px;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+#carousel h5 {
+  display: inline-block;
+  margin-left: 0 0 0 15px;
+  position: absolute;
+  top: 29px;
+  left: 113px;
+}
+
+#carousel h4 {
+  display: inline-block;
+  font-size: 14px;
+  color: silver;
+  position: absolute;
+  top: 58px;
+  left: 114px;
+}
+
+#carousel p {
+  font-style: italic;
+}
+
+#carousel i {
+  color: bisque;
+}
+
+#homeIntro {
+  position: relative;
+  background-image: url(https://bootstrapmade.com/demo/templates/Presento/assets/img/hero-bg.jpg);
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+}
+
+#homeIntro .introLeft {
+  position: absolute;
+  top: 19%;
+}
+
+#homeIntro .introLeft h1 {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-right: 12%;
+}
+
+#homeIntro .introLeft h2 {
+  color: white;
+  font-size: 25px;
+  margin-right: 10%;
+  margin: 3% 10% 3% 0;
+  line-height: 1.2;
+}
+
+#homeIntro .introLeft button {
+  background-color: #e03a3c;
+  border: 2px solid #e03a3c;
+  font-size: 20px;
+  padding: 10px 30px;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#homeIntro .introLeft button:hover {
+  background-color: transparent;
+  border: 2px solid white;
+}
+
+#homeIntro::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  opacity: .6;
+}
+
+#nav {
+  position: relative;
+}
+
+#nav .burger {
+  color: white;
+}
+
+#nav a {
+  color: white;
+}
+
+#nav .navLeft {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+#nav .navLeft span {
+  color: #e03a3c;
+}
+
+#nav .navRight {
+  margin-left: 28%;
+}
+
+#nav .navRight a {
+  -webkit-transition: .2s;
+  transition: .2s;
+  font-weight: 600;
+}
+
+#nav .navRight a:hover {
+  color: #e03a3c;
+}
+
+#nav .navRight button {
+  background-color: #e03a3c;
+  border: 2px solid #e03a3c;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+#nav .navRight button:hover {
+  background-color: black;
+  border: 2px solid black;
+}
+
+#nav::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+  opacity: .3;
+}
+
+#card .head h4 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+#card .head span {
+  color: #e03a3c;
+}
+
+#card .card {
+  z-index: 4;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -webkit-box-shadow: 0 0 25px 0 #726161;
+          box-shadow: 0 0 25px 0 #726161;
+  border: none;
+}
+
+#card .card-body {
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+#card .card-body::before {
+  position: absolute;
+  content: "";
+  top: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #e03a3c;
+  z-index: -1;
+  height: 0;
+}
+
+#card .card:hover .card-body::before {
+  height: 100%;
+  top: 0;
+}
+
+#card .card:hover h5 {
+  color: white;
+}
+
+#card .card:hover p {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

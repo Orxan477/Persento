@@ -1,0 +1,49 @@
+#homeIntro
+{
+    position: relative;
+    background-image: url(https://bootstrapmade.com/demo/templates/Presento/assets/img/hero-bg.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    .introLeft{
+        position: absolute;
+        top: 19%;
+        & h1{
+            color: $fontcolor;
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-right: 12%;
+        }
+        & h2{
+            color: $fontcolor;
+            font-size:($fontsize*2)+5;
+            margin-right: $full/10;
+            margin:3% 10% 3% 0;
+            line-height: 1.2;
+        }
+        & button{
+            background-color: $maincolor;
+            border: 2px solid $maincolor;
+            font-size: $fontsize*2;
+            padding: 10px 30px;
+            transition: .5s;
+        }
+        & button:hover{
+            background-color: transparent;
+            border: 2px solid white;
+        }
+    }
+}
+#homeIntro::before{
+    content: "";
+    position:absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    opacity: .6;
+}

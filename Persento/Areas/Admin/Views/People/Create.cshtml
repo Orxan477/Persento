@@ -1,0 +1,40 @@
+﻿@model CreateVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="col-md-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description"> Basic form layout </p>
+            <form class="forms-sample" enctype="multipart/form-data" method="post">
+                <div class="form-group">
+                    <label asp-for="Fullname"></label>
+                    <input asp-for="Fullname" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Fullname"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Position"></label>
+                    <input asp-for="Position" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Position"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Content"></label>
+                    <input asp-for="Content" class="form-control"/>
+                    <span class="text-danger" asp-validation-for="Content"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Photo"></label>
+                    <input asp-for="Photo" class="form-control" accept="image/*" />
+                    <span class="text-danger" asp-validation-for="Photo"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button class="btn btn-dark" asp-area="Admin" asp-controller="People" asp-action="Index">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

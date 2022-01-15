@@ -1,0 +1,45 @@
+#nav{
+    position: relative;
+    .burger{
+        color: $fontcolor;
+    }
+    a{
+        color: $fontcolor;
+    }
+    .navLeft{
+        font-size: $fontsize*3;
+        font-weight: 600;
+        & span {
+            color: $maincolor;
+        }
+    }
+    .navRight{
+        margin-left: 28%;
+        a{
+            transition: .2s;
+            font-weight: 600;
+        }
+        a:hover{
+            color: $maincolor;
+        }
+        button{
+            background-color: $maincolor;
+            border: 2px solid $maincolor;
+            transition: .3s;
+        }
+        button:hover{
+            background-color: $dark;
+            border: 2px solid $dark;
+        }
+    }
+}
+#nav::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: $dark;
+    opacity: .3;
+}
